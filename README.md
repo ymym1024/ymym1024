@@ -17,4 +17,4 @@ Tools<br>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
 
 ### Status
-![yydev10's GitHub stats](https://github-readme-stats.vercel.app/api?username=yydev10&show_icons=true&theme=tokyonight)
+![ymym1024's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymym1024&show_icons=true&theme=tokyonight)
